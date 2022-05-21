@@ -1,10 +1,10 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "homepage_url": "https://zeusswap.app",
-  "farmpage_url": "https://zeusswap.app/farms",
-  "poolspage_url": "https://zeusswap.app/pools",
-  "description": "Farm CAKE with Pancake LP Tokens",
+  "short_name": "VizslaSwap",
+  "name": "VizslaSwap",
+  "homepage_url": "https://vizslaswap.com",
+  "farmpage_url": "https://vizslaswap.com/farms",
+  "poolspage_url": "https://vizslaswap.com/pools/all",
+  "description": "",
   "icons": [
     {
       "src": "favicon.png",
