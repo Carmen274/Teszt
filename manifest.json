@@ -1,10 +1,7 @@
 {
   "short_name": "VizslaSwap",
   "name": "VizslaSwap",
-  "homepage_url": "https://vizslaswap.com",
-  "farmpage_url": "https://vizslaswap.com/farms",
-  "poolspage_url": "https://vizslaswap.com/pools/all",
-  "description": "",
+  "description": "Farm Vizslaswap with LP Tokens",
   "icons": [
     {
       "src": "favicon.png",
@@ -14,7 +11,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "orientation": "portrait",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
